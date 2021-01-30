@@ -11,6 +11,9 @@ collaborative filtering에서 나아가 large, sparse한 datasets를 다루기 �
 이 논문에서는 Probabilistic Matrix Factorization (PMF) 모델을 소개하고 있다.<br>
 우선 PMF에 관하여 설명하고, 그 후 adaptive prior을 사용한 PMF모델, 마지막으로 유저의 preferences를 모든 item에 대하여 적용한 constrained PMF에 관하여 살펴보겠다.<br>
 
+###### Introduction
+
+###### Probabilistic Matrix Factorization (PMF)
 
 
 ###### Codes
