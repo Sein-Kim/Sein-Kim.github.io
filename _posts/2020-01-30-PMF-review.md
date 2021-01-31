@@ -11,17 +11,17 @@ collaborative filtering에서 나아가 large, sparse한 datasets를 다루기 �
 이 논문에서는 Probabilistic Matrix Factorization (PMF) 모델을 소개하고 있다.<br>
 우선 PMF에 관하여 설명하고, 그 후 adaptive prior을 사용한 PMF모델, 마지막으로 유저의 preferences를 모든 item에 대하여 적용한 constrained PMF에 관하여 살펴보겠다.<br>
 
-###### Introduction
+###### 1. Introduction
 
-###### Probabilistic Matrix Factorization (PMF)
+###### 2. Probabilistic Matrix Factorization (PMF)
 - latent user feature matrix $$ U \in R^{D \times N} $$ <br>
-###### Automatic Complexity Control for PMF Models
+###### 3. Automatic Complexity Control for PMF Models
 
-###### Constrained PMF
+###### 4. Constrained PMF
 
-###### Results
+###### 5. Results
 
-###### Codes
+###### 6. Codes
 아래의 링크는 위 논문을 살펴보고 직접 구현해 본 코드이다.<br>
 ['PMF codes - blog'](https://sein-kim.github.io/PMF/) <br>
 ['Constrained PMF codes - blog'](https://sein-kim.github.io/CPMF/) <br>
