@@ -15,6 +15,7 @@ collaborative filtering에서 나아가 large, sparse한 datasets를 다루기 �
 
 ###### Probabilistic Matrix Factorization (PMF)
   - latent user feature matrix $$ U \in R^(D\times N) $$ <br>
+hi
 ###### Automatic Complexity Control for PMF Models
 
 ###### Constrained PMF
