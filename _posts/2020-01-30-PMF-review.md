@@ -1,5 +1,5 @@
 ---
-title: 추천시스템 Probabilistic Matrix Factorization
+title: "[추천시스템] Probabilistic Matrix Factorization"
 layout: single
 use_math: true
 ---
