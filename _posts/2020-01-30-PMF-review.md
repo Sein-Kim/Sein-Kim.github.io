@@ -16,8 +16,8 @@ collaborative filtering에서 나아가 large, sparse한 datasets를 다루기 �
 ###### 2. Probabilistic Matrix Factorization (PMF)
 - latent user feature matrix : $$ U \in R^{D \times N} $$
 - latent item feature matrix : $$ V \in R^{D \times M} $$
-- integer rating values : from 1 to $K^1$
-<br>
+- integer rating values : from 1 to $K^1$<br>
+
 ###### 3. Automatic Complexity Control for PMF Models
 
 ###### 4. Constrained PMF
