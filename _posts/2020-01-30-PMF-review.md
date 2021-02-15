@@ -14,11 +14,15 @@ collaborative filtering에서 나아가 large, sparse한 datasets를 다루기 �
 ###### 1. Introduction
 Probabilistic Matirx Factorization이라는 추전 기법을 설명하기에 앞서서, 우선 Recommendation Systems의 기본적인 개념에 관하여 알아본다.<br>
 
-Recommendation Systems은 크게, "Content-based filtering", "Collaborative filtering"으로 나누어져 있다.<br>
+Recommendation Systems의 strategies는 크게, "Content-based filtering", "Collaborative filtering"으로 나누어져 있다.<br>
 
 - **Content-based filtering**<br>
-  asdf<br>
+  사용자가 preference에 관한 explicit information을 제공한다면,
+  이를 이용하여 새로운 prediction/suggestion을 하는 방식.<br>
+  ex. user A가 어떤 음악(item) B를 들었다면, 그 음악 B의 작곡가인 C의 다른 음악들을 추천하는 것.<br>
 - **Collaborative filtering**<br>
+
+이 중, Collaborative filtering을 기반으로 하며, sparse하며 imbalanced한 datasets에서도 작동이 잘 되는 "probabilistic algorithms"을 만드는 것이 이 논문의 목표이다.<br>
 
 ###### 2. Probabilistic Matrix Factorization (PMF)
 - latent user feature matrix : $$ U \in R^{D \times N} $$
