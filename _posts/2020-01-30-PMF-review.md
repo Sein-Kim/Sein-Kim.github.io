@@ -42,8 +42,8 @@ $$U_i$$, $$V_j$$를 통하여, 평균: $$U^T V$$, 표준편차: $$\sigma$$인 $$
 
 
 우선적으로, 이 논문의 model들은 Bayesian inference를 바탕으로 형성되었다.
-Bayesian inference를 통하여, posterior distribution을 유도하는 것은 PMF model에서 rating matrix인 R을 찾는 것과 같다.
-$$p(\theta \mid \mathbf{X} ,\alpha) = 
+Bayesian inference를 통하여, posterior distribution을 유도하는 것은 PMF model에서 rating matrix인 R을 찾는 것과 같다.<br>
+$$p(\theta \mid \mathbf{X} ,\alpha) = \frac{p(\mathbf{X} \mid \theta ,\alpha)p(\theta \mid \alpha)}{p(\mathbf{X} \mid \alpha}$$
 ###### 3. Automatic Complexity Control for PMF Models
 
 ###### 4. Constrained PMF
