@@ -30,7 +30,7 @@ PMF model에서의 notation은 다음과 같다.<br>
 - latent item feature matrix : $$ V \in R^{D \times M} $$
 - integer rating values : from 1 to $K^1$
 - rating of user $i$ for movie $j$ : $R_{i,j}$<br>
-- Gaussian distribution (normal distribution) : $$\mathcal{N}(x | \mu, \sigma^2)$$
+- Gaussian distribution (normal distribution) : $$\mathcal{N}(x\mid\mu, \sigma^2)$$
 - indicator function (=1 if user $i$ rated movie(item) $j$ and =0 in otherwise) : $$I_{i,j}$$ <br>
 
 또한 PMF model은 **"root mean squared error (RMSE)"** 를 평가지표로 사용한다.<br>
