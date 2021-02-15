@@ -40,9 +40,10 @@ PMF model에서의 notation은 다음과 같다.<br>
 latent user & item feature matrix의 column vectors $$U_i$$와 $$V_j$$는 표준편차 $$\sigma_U$$와 $$\sigma_V$$를 가지는 standard normal distribution으로 표현된다.<br>
 $$U_i$$, $$V_j$$를 통하여, 평균: $$U^T V$$, 표준편차: $$\sigma$$인 $$\hat{R}$$을 형성하며, 이와 rating matrix R을 비교하여, RMSE를 최소화 시키는 방향으로 학습을 진행한다.<br>
 
-이제 model을 자세하게 살펴보겠다.
 
-
+우선적으로, 이 논문의 model들은 Bayesian inference를 바탕으로 형성되었다.
+Bayesian inference를 통하여, posterior distribution을 유도하는 것은 PMF model에서 rating matrix인 R을 찾는 것과 같다.
+$$p(\theta \mid \mathbf{X} ,\alpha) = 
 ###### 3. Automatic Complexity Control for PMF Models
 
 ###### 4. Constrained PMF
