@@ -19,6 +19,7 @@ Recommendation Systems은 크게, "Content-based filtering", "Collaborative filt
 - **Content-based filtering**<br>
   asdf<br>
 - **Collaborative filtering**<br>
+
 ###### 2. Probabilistic Matrix Factorization (PMF)
 - latent user feature matrix : $$ U \in R^{D \times N} $$
 - latent item feature matrix : $$ V \in R^{D \times M} $$
