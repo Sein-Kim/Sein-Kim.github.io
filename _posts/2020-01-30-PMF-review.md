@@ -31,7 +31,7 @@ PMF model에서의 notation은 다음과 같다.<br>
 - integer rating values : from 1 to $K^1$
 - rating of user $i$ for movie $j$ : $R_{i,j}$<br>
 - Gaussian distribution (normal distribution) : $$\mathcal{N}(x|\mu, \sigma^2)$$<br>
-- indicator function (equal to 1 if user $i$ rated movie(item) $j$ and equal to 0 in otherwise) : $$\lota_{i,j}$$
+- indicator function (=1 if user $i$ rated movie(item) $j$ and =0 in otherwise) : $$I_{i,j}$$<br>
 또한 PMF model은 **"root mean squared error (RMSE)"** 를 평가지표로 사용한다.<br>
 
 <img src="https://user-images.githubusercontent.com/76777494/107918391-ec08f480-6fac-11eb-9562-11bd86457c77.png" width="40%"><br>
@@ -40,6 +40,8 @@ latent user & item feature matrix의 column vectors $$U_i$$와 $$V_j$$는 표준
 $$U_i$$, $$V_j$$를 통하여, 평균: $$U^T V$$, 표준편차: $$\sigma$$인 $$\hat{R}$$을 형성하며, 이와 rating matrix R을 비교하여, RMSE를 최소화 시키는 방향으로 학습을 진행한다.<br>
 
 이제 model을 자세하게 살펴보겠다.
+
+
 ###### 3. Automatic Complexity Control for PMF Models
 
 ###### 4. Constrained PMF
