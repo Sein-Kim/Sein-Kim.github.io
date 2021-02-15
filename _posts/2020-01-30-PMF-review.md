@@ -25,11 +25,14 @@ Recommendation Systems의 strategies는 크게, "Content-based filtering", "Coll
 이 중, Collaborative filtering을 기반으로 하며, sparse하며 imbalanced한 datasets에서도 작동이 잘 되는 "probabilistic algorithms"을 만드는 것이 이 논문의 목표이다.<br>
 
 ###### 2. Probabilistic Matrix Factorization (PMF)
+PMF model에서의 notation은 다음과 같다.<br>
 - latent user feature matrix : $$ U \in R^{D \times N} $$
 - latent item feature matrix : $$ V \in R^{D \times M} $$
 - integer rating values : from 1 to $K^1$
 - rating of user $i$ for movie $j$ : $R_{i,j}$<br>
+또한 PMF model은 **"root mean squared error (RMSE)"** 를 평가지표로 사용한다.<br>
 
+![picture](https://user-images.githubusercontent.com/76777494/107918391-ec08f480-6fac-11eb-9562-11bd86457c77.png)
 ###### 3. Automatic Complexity Control for PMF Models
 
 ###### 4. Constrained PMF
