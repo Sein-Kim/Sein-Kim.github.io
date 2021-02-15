@@ -33,6 +33,8 @@ PMF model에서의 notation은 다음과 같다.<br>
 또한 PMF model은 **"root mean squared error (RMSE)"** 를 평가지표로 사용한다.<br>
 
 ![picture](https://user-images.githubusercontent.com/76777494/107918391-ec08f480-6fac-11eb-9562-11bd86457c77.png)
+위의 그림은 본 논문에서 PMF model을 간략하게 표현한 것이다.<br>
+latent user & item feature matrix의 column vectors $$U_i 와 V_j$$는 표준편차 $$sigma_U 와 sigma_V&&를 가지는 normal distribution으로 표현된다.<br>
 ###### 3. Automatic Complexity Control for PMF Models
 
 ###### 4. Constrained PMF
