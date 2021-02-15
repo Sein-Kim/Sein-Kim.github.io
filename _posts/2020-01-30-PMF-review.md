@@ -36,7 +36,7 @@ PMF model에서의 notation은 다음과 같다.<br>
 <img src="https://user-images.githubusercontent.com/76777494/107918391-ec08f480-6fac-11eb-9562-11bd86457c77.png" width="40%"><br>
 위의 그림은 본 논문에서 PMF model을 간략하게 표현한 것이다.<br>
 latent user & item feature matrix의 column vectors $$U_i$$와 $$V_j$$는 표준편차 $$\sigma_U$$와 $$\sigma_V$$를 가지는 standard normal distribution으로 표현된다.<br>
-$$U_i$$, $$V_j$$를 통하여, 평균: $$\{U^T}V$$, 표준편차: $$\sigma$$인 $$\hat{R}$$을 형성하며, 이와 rating matrix R을 비교하여, RMSE를 최소화 시키는 방향으로 학습을 진행한다.<br>
+$$U_i$$, $$V_j$$를 통하여, 평균: $$\U^T V$$, 표준편차: $$\sigma$$인 $$\hat{R}$$을 형성하며, 이와 rating matrix R을 비교하여, RMSE를 최소화 시키는 방향으로 학습을 진행한다.<br>
 
 이제 model을 자세하게 살펴보자면, 
 ###### 3. Automatic Complexity Control for PMF Models
