@@ -48,9 +48,7 @@ $$p(\theta\mid\mathbf{X},\alpha) = \frac{p(\mathbf{X}\mid\theta,\alpha)p(\theta\
 - prior : $$p(\theta\mid\alpha)$$
 
 위의 bayes rules에 따라, PMF model의 parameters는 bayes inference에서 다음과 같이 표현된다.<br>
-- $$\theta$$ = U, V
-- $$\mathbf{X}$$ = R
-- $$\alpha$$ = $$\sigma^2$$
+- $$\theta$$ => U, V    $$\mathbf{X}$$ => R    $$\alpha$$ => $$\sigma^2$$
 
 
 ###### 3. Automatic Complexity Control for PMF Models
