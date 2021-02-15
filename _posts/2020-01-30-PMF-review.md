@@ -16,9 +16,9 @@ Probabilistic Matirx Factorization이라는 추전 기법을 설명하기에 앞
 
 Recommendation Systems은 크게, "Content-based filtering", "Collaborative filtering"으로 나누어져 있다.<br>
 
-- **Content-based filtering**
-  asdf
-- **Collaborative filtering**
+- **Content-based filtering**<br>
+  asdf<br>
+- **Collaborative filtering**<br>
 ###### 2. Probabilistic Matrix Factorization (PMF)
 - latent user feature matrix : $$ U \in R^{D \times N} $$
 - latent item feature matrix : $$ V \in R^{D \times M} $$
