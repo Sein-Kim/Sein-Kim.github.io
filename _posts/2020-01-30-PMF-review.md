@@ -34,7 +34,8 @@ PMF model에서의 notation은 다음과 같다.<br>
 
 <img src="https://user-images.githubusercontent.com/76777494/107918391-ec08f480-6fac-11eb-9562-11bd86457c77.png" width="40%"><br>
 위의 그림은 본 논문에서 PMF model을 간략하게 표현한 것이다.<br>
-latent user & item feature matrix의 column vectors $$U_i$$와 $$V_j$$는 표준편차 $$\sigma_U$$와 $$\sigma_V&&를 가지는 normal distribution으로 표현된다.<br>
+latent user & item feature matrix의 column vectors $$U_i$$와 $$V_j$$는 표준편차 $$\sigma_U$$와 $$\sigma_V$$를 가지는 normal distribution으로 표현된다.<br>
+$$U_i$$, $$V_j$$를 통하여, 표준편차 $$\sigma$$인 normal distrubution을 따르는 $R_{i,j}$을 형성하고, 이 $R_{i,j}$와 
 ###### 3. Automatic Complexity Control for PMF Models
 
 ###### 4. Constrained PMF
