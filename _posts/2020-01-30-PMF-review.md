@@ -12,7 +12,11 @@ collaborative filtering에서 나아가 large, sparse한 datasets를 다루기 �
 우선 PMF에 관하여 설명하고, 그 후 adaptive prior을 사용한 PMF모델, 마지막으로 유저의 preferences를 모든 item에 대하여 적용한 constrained PMF에 관하여 살펴보겠다.<br>
 
 ###### 1. Introduction
+Probabilistic Matirx Factorization이라는 추전 기법을 설명하기에 앞서서, 우선 Recommendation Systems의 기본적인 개념에 관하여 알아본다.<br>
 
+Recommendation Systems은 크게, "Content-based filtering", "Collaborative filtering"으로 나누어져 있다.<br>
+
+- Content-based filtering
 ###### 2. Probabilistic Matrix Factorization (PMF)
 - latent user feature matrix : $$ U \in R^{D \times N} $$
 - latent item feature matrix : $$ V \in R^{D \times M} $$
