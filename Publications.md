@@ -7,7 +7,7 @@ title: Publications
 
 * <span style="color:OliveDrab">Muffin: Music Recommender System via Shuffle Invariant Training </span>   
 Yunhak Oh, Sukwon Yun, Dongmin Hyun, **Sein Kim**, Chanyoung Park  
-**[CIMK (2023)]**
+**[CIKM (2023)]**
 
 * <span style="color:OliveDrab"> Shift-Robust Molecular Relational Learning with Causal Substructure </span>   
 Namkyeong Lee, Kanghoon Yoon, Gyoung S. Na, **Sein Kim**, Chanyoung Park
