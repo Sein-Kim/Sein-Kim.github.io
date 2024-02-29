@@ -5,8 +5,8 @@ title: Publications
 
 ## International Conference
 
-* <span style="color:OliveDrab">DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning </span>
-Seungyoon Choi*, Wonjoong Kim*, Sungwon Kim, Yeonjun In, **Sein Kim**, Chanyoung Park
+* <span style="color:OliveDrab"> DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning </span>   
+Seungyoon Choi\*, Wonjoong Kim\*, Sungwon Kim, Yeonjun In, **Sein Kim**, Chanyoung Park
 **[WWW (Oral 2024)]** [**[URL]**](https://arxiv.org/abs/2402.13711)
 
 * <span style="color:OliveDrab">MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement </span>   
