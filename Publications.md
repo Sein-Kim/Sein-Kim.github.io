@@ -5,9 +5,13 @@ title: Publications
 
 ## International Conference
 
-* <span style="color:OliveDrab">Muffin: Music Recommender System via Shuffle Invariant Training </span>   
+* <span style="color:OliveDrab">DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning </span>
+Seungyoon Choi*, Wonjoong Kim*, Sungwon Kim, Yeonjun In, **Sein Kim**, Chanyoung Park
+**[WWW (Oral 2024)]** [**[URL]**](https://arxiv.org/abs/2402.13711)
+
+* <span style="color:OliveDrab">MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement </span>   
 Yunhak Oh, Sukwon Yun, Dongmin Hyun, **Sein Kim**, Chanyoung Park  
-**[CIKM (2023)]**
+**[CIKM (2023)]** [**[URL]**](https://arxiv.org/abs/2308.09649)
 
 * <span style="color:OliveDrab"> Shift-Robust Molecular Relational Learning with Causal Substructure </span>   
 Namkyeong Lee, Kanghoon Yoon, Gyoung S. Na, **Sein Kim**, Chanyoung Park
