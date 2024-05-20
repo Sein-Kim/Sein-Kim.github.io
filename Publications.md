@@ -4,6 +4,9 @@ title: Publications
 ---
 
 ## International Conference
+* <span style="color:OliveDrab"> Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System </span>   
+**Sein Kim\***, Hongseok Kang\*, Seungyoon Choi, Donghyun Kim, Minchul Yang,  Chanyoung Park
+**[KDD (2024)]** [**[URL]**](https://arxiv.org/abs/2404.11343)
 
 * <span style="color:OliveDrab"> DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning </span>   
 Seungyoon Choi\*, Wonjoong Kim\*, Sungwon Kim, Yeonjun In, **Sein Kim**, Chanyoung Park
