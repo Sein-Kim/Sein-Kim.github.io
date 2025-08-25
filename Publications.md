@@ -45,7 +45,7 @@ Namkyeong Lee, Kanghoon Yoon, Gyoung S. Na, **Sein Kim**, Chanyoung Park
 **[AAAI (Oral 2023)]** [**[URL]**](https://arxiv.org/abs/2211.15158)
 
 
-## Pre-Print
+## Preprint
 * <span style="color:OliveDrab"> Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems </span>   
 Kibum Kim, **Sein Kim**, Hongseok Kang, Jiwan Kim, Heewoong Noh, Yeonjun In, Kanghoon Yoon, Jinoh Oh, Chanyoung Park
 **Arxiv** [**[URL]**](https://arxiv.org/abs/2503.06238)
