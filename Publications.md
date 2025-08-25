@@ -49,3 +49,7 @@ Namkyeong Lee, Kanghoon Yoon, Gyoung S. Na, **Sein Kim**, Chanyoung Park
 * <span style="color:OliveDrab"> Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems </span>   
 Kibum Kim, **Sein Kim**, Hongseok Kang, Jiwan Kim, Heewoong Noh, Yeonjun In, Kanghoon Yoon, Jinoh Oh, Chanyoung Park
 **Arxiv** [**[URL]**](https://arxiv.org/abs/2503.06238)
+
+* <span style="color:OliveDrab"> Toward Generalizability of Graph-based Imputation on Biomedical Tabular-based Missing Data </span>   
+Sukwon Yun, Yunhak Oh, Junseok Lee, Xin Liu, Tsuyoshi Murata, Dongmin Hyun, **Sein Kim**, Tianlong Chen, Chanyoung Park
+**OpenReview** [**[URL]**](https://openreview.net/forum?id=Vuj1FZfghv)
